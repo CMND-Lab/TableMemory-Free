@@ -1,0 +1,12 @@
+{
+	"n_baseline_trials": 2,
+	"n_practice_blocks": 1,
+	"n_experimental_blocks": 10,
+
+	"n_practice_stimuli": 10,
+	"n_study_trials": 1,
+	"n_study_stimuli": [ 2 ],
+	"n_study_highlights": 1,
+
+	"n_test_trials": 0.1
+}
